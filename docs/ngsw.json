@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592493750771,
+  "timestamp": 1592495538182,
   "index": "/angular-service-worker/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/angular-service-worker/favicon.ico",
         "/angular-service-worker/index.html",
-        "/angular-service-worker/main-es2015.2ed6092315f2a1b4f6b5.js",
-        "/angular-service-worker/main-es5.2ed6092315f2a1b4f6b5.js",
+        "/angular-service-worker/main-es2015.fa275fe53319a855bb8d.js",
+        "/angular-service-worker/main-es5.fa275fe53319a855bb8d.js",
         "/angular-service-worker/manifest.webmanifest",
         "/angular-service-worker/polyfills-es2015.09ee2f719bd21ab5c7b1.js",
         "/angular-service-worker/polyfills-es5.12b5c32d1603e35dd556.js",
         "/angular-service-worker/runtime-es2015.0dae8cbc97194c7caed4.js",
         "/angular-service-worker/runtime-es5.0dae8cbc97194c7caed4.js",
-        "/angular-service-worker/styles.385305c91748d33f5bb0.css"
+        "/angular-service-worker/styles.4d06ba94b025b39fba68.css"
       ],
       "patterns": []
     },
@@ -49,15 +49,15 @@
     "/angular-service-worker/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular-service-worker/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/angular-service-worker/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-service-worker/index.html": "05a3519a9dd1f11b348089fd8f6e19a374156235",
-    "/angular-service-worker/main-es2015.2ed6092315f2a1b4f6b5.js": "c2267617e01016833cc4dbfa6ef88597b89c2acc",
-    "/angular-service-worker/main-es5.2ed6092315f2a1b4f6b5.js": "22936a69649a50b8fe11a5cc8b2fe8c27c075988",
+    "/angular-service-worker/index.html": "37dbb3d29f11edbd6b06eebcd403ec61d10425aa",
+    "/angular-service-worker/main-es2015.fa275fe53319a855bb8d.js": "bddc2abcfad4d419f0b49b758573caac2a11e713",
+    "/angular-service-worker/main-es5.fa275fe53319a855bb8d.js": "46b2b26828f51544638dff4aebe3b8c728134ae2",
     "/angular-service-worker/manifest.webmanifest": "9fb51257777071d7bea3afde70361b9c3f659694",
     "/angular-service-worker/polyfills-es2015.09ee2f719bd21ab5c7b1.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/angular-service-worker/polyfills-es5.12b5c32d1603e35dd556.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
     "/angular-service-worker/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/angular-service-worker/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/angular-service-worker/styles.385305c91748d33f5bb0.css": "13dbd9ef811d5c2bfbb24f3ff8b397c4f863491c"
+    "/angular-service-worker/styles.4d06ba94b025b39fba68.css": "eca910cf22e96736683dd0cbb8d85442b3fb8ab7"
   },
   "navigationUrls": [
     {
